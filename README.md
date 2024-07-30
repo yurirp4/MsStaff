@@ -1,4 +1,3 @@
-![Uploading image.png…]()
 <h1 align="center">Ms StaffChat</h1>
 
 <div align="center">
