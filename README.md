@@ -32,8 +32,11 @@ todas as mensagens apresentadas pelo plugin ao tenta utiliza-lo
 
 ## Detalhes
 **Downloads**: 130 TOTAL | Versão 1.0 Downloads: 56 | Versão 1.2 Downloads: 77
+
 **Lançamento**:  23 de Dezembro de 2017
+
 **Ultima Atualizaçã**: 29 de março de 2018
+
 **Versão para uso**: 1.8-
 
 <a href="https://www.spigotmc.org/resources/msstaffchat.51120/">Link para donwload</a>.
