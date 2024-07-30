@@ -1,0 +1,8 @@
+name: Staff
+version: 1.0
+author: yurirp4
+main: MsStaff.Main
+Description: MsStaff Mais Um Plugin Da Linha MsPlugins
+commands:
+  staffs:
+    description: Use ver os membros da staff
